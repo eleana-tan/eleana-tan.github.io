@@ -5,7 +5,7 @@ It’s a single-page site showcasing my professional background, skills, and pro
 
 - 🚀 Built with: HTML, CSS  
 - 🌐 Hosted on: GitHub Pages  
-- 📄 View it live: [https://eleanatan.github.io](https://eleanatan.github.io)
+- 📄 View it live: [https://eleana-tan.github.io](https://eleana-tan.github.io)
 
 ---
 
